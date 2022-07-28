@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dani
 - 👀 I’m interested: in C#, ASP, Flutter, Angular
 - 🌱 I’m currently: learning ASP, SEO
-- 💞️ I’m looking to: collaborate on ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: danialmasoomnejad@gmail.com
 
 <!---
